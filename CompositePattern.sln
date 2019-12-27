@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{98BE4B3B-858A-47A1-AC61-4E42306FD6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98BE4B3B-858A-47A1-AC61-4E42306FD6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BE4B3B-858A-47A1-AC61-4E42306FD6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BE4B3B-858A-47A1-AC61-4E42306FD6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BE4B3B-858A-47A1-AC61-4E42306FD6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F57D4B2-853B-41F6-9797-3908F6045ABD}
+	EndGlobalSection
+EndGlobal
